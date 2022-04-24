@@ -1,0 +1,14 @@
+iam practiceing new commands
+ $ git checkout 
+createing branch with this command
+  $ git checkout -b baji         (baji is nothing but branch name)
+switching branches
+ $ git checkout baji
+deleting branches using with this command 
+   $ git branch -d baji
+if not merged the above command will output an error message
+  if u are really delete the branch using this command  (forcefully deleted)
+  $ git  branch -D baji
+To delete remote branch excute this command 
+ $ git push origin -delete baji
+ $ git push origin:baji
