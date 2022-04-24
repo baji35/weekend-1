@@ -1,0 +1,4 @@
+to see what branch u r
+ $ git status
+ to see remote branches:
+  $git branch -r
